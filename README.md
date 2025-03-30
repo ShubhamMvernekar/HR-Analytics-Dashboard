@@ -1,7 +1,7 @@
 
 # 💼 **HR Analytics Dashboard** 📊
 
-![HR Analytics Dashboard](https://via.placeholder.com/800x400?text=HR+Analytics+Dashboard+Preview)  
+![HR Analytics Dashboard](https://github.com/ShubhamMvernekar/HR-Analytics-Dashboard/blob/main/HR%20Analytics_dashboard.png)  
 **A Comprehensive HR Analytics Dashboard Powered by Power BI** 🎯
 
 Welcome to the **HR Analytics Dashboard** project! This dashboard is designed to visualize key HR metrics and employee data. With the help of **Power BI** for advanced data visualization and **Power Query** for data cleaning, this project aims to provide valuable insights to HR professionals for making data-driven decisions regarding recruitment, retention, performance, and more.
